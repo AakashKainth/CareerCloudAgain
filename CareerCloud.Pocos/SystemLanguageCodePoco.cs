@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace CareerCloud.Pocos
 {
+    //Just added a comment
     [Table("System_Language_Codes")]
     public class SystemLanguageCodePoco
     {
